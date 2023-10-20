@@ -1,1 +1,1 @@
-import num from "./exportNumber";
+import num from "./exportNumber.mjs";
